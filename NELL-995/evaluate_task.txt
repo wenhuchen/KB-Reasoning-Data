@@ -1,0 +1,12 @@
+concept_agentbelongstoorganization  0
+concept_athleteplaysforteam 1
+concept_athleteplayssport   2
+concept_organizationhiredperson 3
+concept_personleadsorganization 4
+concept_teamplayssport  5
+concept_athletehomestadium  6
+concept_athleteplaysinleague    7
+concept_organizationheadquarteredincity 8
+concept_personborninlocation    9
+concept_teamplaysinleague   10
+concept_worksfor    11
